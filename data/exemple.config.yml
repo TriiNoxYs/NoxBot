@@ -1,0 +1,6 @@
+---
+:token: <BOT-TOKEN>
+:client_id: <BOT-CLIENT-ID>
+:owner_id: 131218864234168321
+:prefix: "!"
+:permissions_code: 66321471
